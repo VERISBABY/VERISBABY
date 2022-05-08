@@ -17,7 +17,7 @@ UPDATING....
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -40,6 +40,6 @@ UPDATING....
 <p>---</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)](https://git.io/typing-svg)
-<p align="left">
+<div align="left">
 <img src="https://profile-counter.glitch.me/VERISBABY/count.svg" alt="hit counter" align="left">
-</p>
+</div>
