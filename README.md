@@ -14,7 +14,7 @@ UPDATING....
     <img src="https://img.icons8.com/clouds/60/000000/youtube-play.png" alt="verisbaby-youtube"/>
   </a>
 </div>
-<p>-</p>
+<p>---</p>
 ![](https://gitwar.herokuapp.com/badge?username=VERISBABY&color=ff69b4&label=GITHUB+PROFILE+SCORE)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)](https://git.io/typing-svg)
