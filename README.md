@@ -1,11 +1,12 @@
 UPDATING....
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MY+SKILLS&color=eda8ce&font=Courier)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MY+SKILLS&color=805599&font=Courier)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache](https://img.shields.io/badge/tkinter-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=blue)
 ![Dependabot](https://img.shields.io/badge/nltk-025E8C?style=for-the-badge&logo=dependabot&logoColor=black)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
