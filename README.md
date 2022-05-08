@@ -22,6 +22,7 @@ UPDATING....
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<p>---</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CONNECT+WITH+ME;CLICK+THE+ICON+TO+GO&color=e38e27&font=Courier)](https://git.io/typing-svg)
 <div align="left">
